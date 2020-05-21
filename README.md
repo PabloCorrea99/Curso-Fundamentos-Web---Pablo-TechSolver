@@ -3,5 +3,5 @@ Código fuente del curso de Fundamentos Web de Pablo TechSolver
 Parcerosss, por acá van a encontrar todo el codigo que se va haciendo del curso de fundamentos del canal.
 Recuerden, los temas que se tratan en este curso son: HTML, CSS y Javascript. 
 
-## Saludos!
+## Nos vemos!
 ![](https://lh3.googleusercontent.com/-0iKghM8yqH0/Xrmo9ZBdsQI/AAAAAAAABHY/byf_9X-rhgIv0oYD1LxbK8cl9SGpRcSFQCEwYBhgLKs0DAL1OcqxkSEcEmWFj5_j5ZOPfeqUm7d5stelQYC3cCne55ecNe_xAsFFKOWuNSZr30u2YI99IA-quEQV93IUky1dsXOywiNCMhksbSZCiRUetqxwBuqS6QmQBbv-8ZyOZ-DX3PFZ2BWMMfGNJMQa6fH4l99mH9x6IvlV4vIsudKEbNPdvYpmhrw1865nMf0XNM6L9gL28dkR__-kAIaFM9uJytYN13pRoRzVvCxQXr-CqJzEGpxT2vF29uLLumIfcoHnd9a3n7shECOU3UdRpLrRpA4mbeq_PU_AOt6y-fn7g9b2dt4J5GGlaxFNseNfgwm0SoTW4UfgT5kfHvu6zviGVXr8C5wzM3c15H5WnCtDDRny65b4YNkcqmq-CagT71fcr7TIp6uax8dwwtCvzLc8qoh1cXYrgKNFXcgf2cGEcbBCoAY4gR_x3Nq0rPT0651J299yn4D1QhRKw59IOD44glgNaq16XldDu321ZCmmVEJSmuW6Uel53QBIDw5zmPCXPNqfPlm7CCHgPx25OaCaBS9_iFnZpnSPy5dJaeORzKRqMWLdjAba3wj80D1b2LfAX36mrbyoK6vQOGA1ImD08EwhBf8zCFbExBRkw8qH99QU/w140-h140-p/6.png)
