@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Formularios</title>
+</head>
+<body>
+    <form action="" method="GET">
+        <label for="nombre">Nombre: </label>
+        <input name="nombre" type="text" placeholder="Pacho" required>
+        <label for="contra">Contraseña:</label>
+        <input name="contra" type="password" required>
+        <label for="generoM">Masculino</label>
+        <input name="generoM" type="radio">
+        <label for="generoF">Femenino</label>
+        <input name="generoF" type="radio">
+        <label for="terminos">Terminos y condiciones</label>
+        <input name="terminos"type="checkbox" required>
+        <button type="submit">
+            enviar
+        </button>
+    </form>
+    <form action="" method="GET">
+        <label for="selecciona">Lista</label>
+        <select name="selecciona" id="hola">
+            <option value="Medellin">Medellin</option>
+            <option value="Bogota">Bogota</option>
+            <option value="Cali">Cali</option>
+        </select>
+        <button type="submit">Enviar Ciudad</button>
+    </form>
+</body>
+</html>
